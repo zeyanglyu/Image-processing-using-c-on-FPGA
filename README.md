@@ -1,4 +1,4 @@
-# Image-processing-using-cpp-on-FPGA
+# Image-processing-using-c-on-FPGA
 
 This implementation transfers a .ppm image to ASCII graf using embedded C on FPGA.
 
